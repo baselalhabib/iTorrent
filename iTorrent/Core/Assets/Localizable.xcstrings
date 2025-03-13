@@ -3,6 +3,12 @@
   "strings" : {
     "%@ of %@ (%@)" : {
       "localizations" : {
+				"ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ von %2$@ (%3$@)"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -37,6 +43,12 @@
     },
     "%lld / %lld items" : {
       "localizations" : {
+				"ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$lld / %1$lld عناصر"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -72,6 +84,12 @@
     "add.dismiss.message" : {
       "extractionState" : "manual",
       "localizations" : {
+				"ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ستضيع جميع التغييرات"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -107,6 +125,12 @@
     "add.dismiss.title" : {
       "extractionState" : "manual",
       "localizations" : {
+				"ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "هل أنت متأكد من الرفض؟"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -141,6 +165,12 @@
     },
     "addTorrent.%@_exists" : {
       "localizations" : {
+				"ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "التورنت لهذا ال hash: \"%@\" موجود بالفعل في قائمة انتظار التنزيل"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -175,6 +205,12 @@
     },
     "addTorrent.exists" : {
       "localizations" : {
+				"ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "هذا التورنت موجود بالفعل"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -209,6 +245,12 @@
     },
     "addTorrent.storage.manage" : {
       "localizations" : {
+				"ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إدارة..."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -243,6 +285,12 @@
     },
     "addTorrent.storage.selected" : {
       "localizations" : {
+				"ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اختر التخزين"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -277,6 +325,12 @@
     },
     "common.add" : {
       "localizations" : {
+				"ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أضف"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -311,6 +365,12 @@
     },
     "common.all" : {
       "localizations" : {
+				"ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الكل"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -345,6 +405,12 @@
     },
     "common.cancel" : {
       "localizations" : {
+				"ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إلغاء"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -379,6 +445,12 @@
     },
     "common.close" : {
       "localizations" : {
+				"ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إغلاق"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -413,6 +485,12 @@
     },
     "common.continue" : {
       "localizations" : {
+				"ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تابع"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -447,6 +525,12 @@
     },
     "common.delete" : {
       "localizations" : {
+				"ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حذف"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -482,6 +566,12 @@
     "common.dismiss" : {
       "extractionState" : "manual",
       "localizations" : {
+				"ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تجاهل"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -516,6 +606,12 @@
     },
     "common.enable" : {
       "localizations" : {
+				"ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تمكين"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -550,6 +646,12 @@
     },
     "common.error" : {
       "localizations" : {
+				"ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "خطأ"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -584,6 +686,12 @@
     },
     "common.login" : {
       "localizations" : {
+				"ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تسجيل الدخول"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -612,6 +720,12 @@
     },
     "common.ok" : {
       "localizations" : {
+				"ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -640,6 +754,12 @@
     },
     "common.open" : {
       "localizations" : {
+				"ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "فتح"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -674,6 +794,12 @@
     },
     "common.optional" : {
       "localizations" : {
+				"ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اختياري"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -702,6 +828,12 @@
     },
     "common.password" : {
       "localizations" : {
+				"ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "كلمة السر"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -736,6 +868,12 @@
     },
     "common.port" : {
       "localizations" : {
+				"ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مدخل"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -764,6 +902,12 @@
     },
     "common.remove" : {
       "localizations" : {
+				"ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ازالة"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -798,6 +942,12 @@
     },
     "common.reset" : {
       "localizations" : {
+				"ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إعادة ضبط"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -832,6 +982,12 @@
     },
     "common.search" : {
       "localizations" : {
+				"ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "بحث"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
