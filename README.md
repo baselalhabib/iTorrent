@@ -70,6 +70,7 @@ What can this app do:
 ## Localization
 
 Now iTorrent supports the following languages:
+- Arabic
 - English
 - German
 - Russian
